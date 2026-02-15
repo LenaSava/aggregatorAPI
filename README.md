@@ -74,7 +74,7 @@ The core insight is that not all upstream services are equal. The Catalog Servic
 
 All optional services implement `FetchService<T extends FetchResult>`. `AggregatorService` receives `List<FetchService<?>>` via Spring constructor injection and fans them out in parallel.
 
-### 3. CompletableFuture over @Async
+### 3. CompletableFuture
 
 I chose `CompletableFuture.supplyAsync()` with `.orTimeout()`
 The timeout is configurable via `application.yaml` (`app.timeout.service-timeout-millis: 150`)
