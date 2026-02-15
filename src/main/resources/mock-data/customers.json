@@ -1,0 +1,22 @@
+[
+  {
+    "customerId": "DEALER-001",
+    "segment": "DEALER",
+    "preferences": ["heavy-machinery", "filters", "belts"]
+  },
+  {
+    "customerId": "DEALER-002",
+    "segment": "DEALER",
+    "preferences": ["tractors", "hydraulics"]
+  },
+  {
+    "customerId": "WORKSHOP-001",
+    "segment": "WORKSHOP",
+    "preferences": ["maintenance-kits", "filters"]
+  },
+  {
+    "customerId": "FLEET-001",
+    "segment": "FLEET",
+    "preferences": ["bulk-parts", "lubricants"]
+  }
+]

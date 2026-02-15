@@ -1,0 +1,72 @@
+[
+  {
+    "productId": "PART-001",
+    "names": {
+      "nl-NL": "Oliefilter — John Deere 6030",
+      "de-DE": "Ölfilter — John Deere 6030",
+      "pl-PL": "Filtr oleju — John Deere 6030",
+      "en-GB": "Oil Filter — John Deere 6030"
+    },
+    "descriptions": {
+      "nl-NL": "Hoogwaardige oliefilter geschikt voor John Deere 6030 serie tractoren.",
+      "de-DE": "Hochwertiger Ölfilter passend für John Deere 6030 Traktoren.",
+      "pl-PL": "Wysokiej jakości filtr oleju do ciągników John Deere serii 6030.",
+      "en-GB": "High-quality oil filter compatible with John Deere 6030 series tractors."
+    },
+    "specs": {
+      "thread": "M20x1.5",
+      "height_mm": "110",
+      "weight_kg": "0.4"
+    },
+    "images": [
+      "https://cdn.kramp.com/PART-001/main.jpg",
+      "https://cdn.kramp.com/PART-001/side.jpg"
+    ]
+  },
+  {
+    "productId": "PART-002",
+    "names": {
+      "nl-NL": "Hydraulisch filter",
+      "de-DE": "Hydraulikfilter",
+      "pl-PL": "Filtr hydrauliczny",
+      "en-GB": "Hydraulic Filter"
+    },
+    "descriptions": {
+      "nl-NL": "Hydraulisch filter voor landbouwmachines.",
+      "de-DE": "Hydraulikfilter für Landmaschinen.",
+      "pl-PL": "Filtr hydrauliczny do maszyn rolniczych.",
+      "en-GB": "Hydraulic filter for agricultural machinery."
+    },
+    "specs": {
+      "micron": "10",
+      "flow_rate_lpm": "60",
+      "weight_kg": "0.6"
+    },
+    "images": [
+      "https://cdn.kramp.com/PART-002/main.jpg"
+    ]
+  },
+  {
+    "productId": "PART-003",
+    "names": {
+      "nl-NL": "V-snaar",
+      "de-DE": "Keilriemen",
+      "pl-PL": "Pasek klinowy",
+      "en-GB": "V-Belt"
+    },
+    "descriptions": {
+      "nl-NL": "Duurzame V-snaar voor diverse aandrijftoepassingen.",
+      "de-DE": "Langlebiger Keilriemen für verschiedene Antriebsanwendungen.",
+      "pl-PL": "Trwały pasek klinowy do różnych zastosowań napędowych.",
+      "en-GB": "Durable V-belt for various drive applications."
+    },
+    "specs": {
+      "profile": "B",
+      "length_mm": "1500",
+      "width_mm": "17"
+    },
+    "images": [
+      "https://cdn.kramp.com/PART-003/main.jpg"
+    ]
+  }
+]

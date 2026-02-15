@@ -1,0 +1,34 @@
+{
+  "basePrices": {
+    "PART-001": 24.99,
+    "PART-002": 45.50,
+    "PART-003": 12.75
+  },
+  "marketConfig": {
+    "nl-NL": {
+      "currency": "EUR",
+      "exchangeRate": 1.0
+    },
+    "de-DE": {
+      "currency": "EUR",
+      "exchangeRate": 1.0
+    },
+    "pl-PL": {
+      "currency": "PLN",
+      "exchangeRate": 4.25
+    },
+    "en-GB": {
+      "currency": "GBP",
+      "exchangeRate": 0.86
+    },
+    "fr-FR": {
+      "currency": "EUR",
+      "exchangeRate": 1.0
+    }
+  },
+  "segmentDiscounts": {
+    "DEALER": 10.0,
+    "WORKSHOP": 5.0,
+    "FLEET": 15.0
+  }
+}
